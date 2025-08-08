@@ -19,3 +19,6 @@ It automatically converts prices to USD for consistency.
 
 ## Usage
  python main.py
+
+## Caution
+ THIs project was developed with assistnce from AI tools(ChatGPT,Gemini)
